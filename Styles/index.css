@@ -184,6 +184,7 @@ h1{
 
 .cards{
     grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+    justify-content: center;
 
     margin: 0 0 40px;
 }
