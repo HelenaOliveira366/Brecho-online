@@ -159,6 +159,8 @@ h1{
     background-image: url(../Imgs/pessoas-elegantes.png);
     background-repeat: repeat;
     background-size: cover;
+    background-position-x: center;
+    background-position-y: top;
 
     display: flex;
     justify-content: center;
